@@ -28,3 +28,6 @@ Thumbs.db
 # Build folders
 build/
 dist/
+
+# Ignore PDF files inside project folder (input + generated)
+PDF_Splitter_Project/*.pdf
